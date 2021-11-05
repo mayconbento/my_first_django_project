@@ -1,7 +1,7 @@
 # Olá, Recruiters!
 
-- 👋 Hi, I’m @bentoprogramador.
-- 👀 I’m interested in Python, Rstudio.
+- 👋 Hi, I’m @mayconbento
+- 👀 I’m interested in Python, Rstudio , Django.
 - 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate on any data science project.
 - 📫 How to reach me (github).
