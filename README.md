@@ -10,10 +10,8 @@
 Portfolio_de_projetos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p>
-  
-  </p>
-![pastas_projetos](https://user-images.githubusercontent.com/93701385/140649370-02479e14-9704-481e-873c-661375d88075.png)
-![django_create](https://user-images.githubusercontent.com/93701385/140649230-f60793c9-1088-4b6a-b907-a59694bc4c88.png)
-![django_home](https://user-images.githubusercontent.com/93701385/140649234-447ac32e-ab66-403f-9a71-fc0bb865442f.png)
-![django_admin](https://user-images.githubusercontent.com/93701385/140649237-2fef0ca7-733b-4825-b969-2682b928ee9b.png)
+
+![django_admin](https://user-images.githubusercontent.com/93701385/140649395-7d7779d0-4cd3-4775-967a-4181ecaa8eb0.png)
+![django_create](https://user-images.githubusercontent.com/93701385/140649397-fd219728-a8ce-44f6-9b89-ea187981a328.png)
+![pastas_projetos](https://user-images.githubusercontent.com/93701385/140649398-e2522b71-384d-44de-b9de-bfe7579e4310.png)
+![django_home](https://user-images.githubusercontent.com/93701385/140649400-aff0c984-7895-4478-9f8c-908c6cac167f.png)
